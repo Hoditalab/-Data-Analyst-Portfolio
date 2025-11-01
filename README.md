@@ -1,6 +1,6 @@
 Welcome to my Data Analyst Portfolio!
 
-About 
+#About# 
 I’m currently pursuing my Master’s in Data and Discourse Studies at TU Darmstadt. I combine my passion for linguistics and digital humanities with practical skills in data analysis. I work with tools like SQL, Power BI, and Excel to explore and visualize data. For data annotation, I use INCEpTION. I use Python mainly to handle and organize data as well as to automate repetitive tasks, making my work more efficient. I’m comfortable working in Visual Studio Code, Google Colab, and Jupyter Notebook to support these activities.
 
 I enjoy applying critical thinking to analyze complex data and turn it into clear, compelling stories that help make better decisions. Whether it’s building dashboards or cleaning data, I’m focused on making data useful and accessible.

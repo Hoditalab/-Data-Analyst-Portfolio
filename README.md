@@ -11,7 +11,7 @@ SQL for querying and managing databases
 
 Power BI and Excel for creating interactive dashboards and reports
 
-Python for data handling and automation, Using Visual Studio Code, Google Colab, and Jupyter Notebook
+Python for data handling and automation, using Visual Studio Code, Google Colab, and Jupyter Notebook
 
 Data annotation using INCEpTION
 

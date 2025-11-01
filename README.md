@@ -19,4 +19,6 @@ Critical thinking applied to data analysis
 
 
 
-I’m eager to apply my skills in real-world projects, especially in data analysis or business intelligence roles. Feel free to explore my projects, and I’m always happy to connect and collaborate!
+I am confident that my data analytics skills and experience make me an ideal candidate for any data analyst role. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you.
+
+Thank you for your time, I look forward to hearing from you soon.

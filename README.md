@@ -6,7 +6,7 @@ I’m currently pursuing my Master’s in Data and Discourse Studies at TU Darms
 
 I enjoy applying critical thinking to analyze complex data and turn it into clear, compelling stories that help make better decisions. Whether it’s building dashboards or cleaning data, I’m focused on making data useful and accessible.
 
-# My skills include #
+# My skills #
 SQL for querying and managing databases
 
 Power BI and Excel for creating interactive dashboards and reports
@@ -15,7 +15,7 @@ Python for data handling and automation, using Visual Studio Code, Google Colab,
 
 Data annotation using INCEpTION
 
-Critical thinking applied to data analysis
+In addition to my technical skills, I also pride myself on my critical thinking and problem-solving abilities. I am able to approach data analysis with a strategic mindset, and to identify key issues and opportunities in the data.
 
 # #
 
